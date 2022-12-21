@@ -5,4 +5,4 @@ SAV is a high level procedure language that can be translated to .asm
 SAV uses strongly typed language model
 
 
-Can be used for big ammount of problems you need to solve
+Can be used for big amount of problems you need to solve
